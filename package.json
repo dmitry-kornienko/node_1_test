@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@korney_dv/calculaterpn": "^1.0.0"
+    "@korney_dv/rpn-calculator": "^1.1.1"
   }
 }

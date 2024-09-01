@@ -1,4 +1,4 @@
-const calculateRPN = require('@korney_dv/calculaterpn')
+const calculateRPN = require('@korney_dv/rpn-calculator')
 
 const expressions = [
 	'15 9 + 10 - 14 - 7 * 5 14 * 14 - *',
